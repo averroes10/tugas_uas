@@ -23,7 +23,7 @@
 			<div class="panel">
 				<div class="panel-header d-flex align-items-center justify-content-between">
 						<div class="panel-title">
-							<i class="fa fa-balance-scale"></i> 	   Daftar Barang
+							<i class="fa fa-gavel"></i> 	   Daftar Barang
 						</div>
 						<div>
 							<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo"><i class="fa fa-plus-square"></i></button>

@@ -20,11 +20,11 @@
 
 body {
 	height: 100%;
-	background-color: #F2F3F8;
+	background-color: #00d8ff;
 }
 
 .btn-primary {
-	background-color: #c94300 ;
+	background-color: #ff009d ;
 }
 
 
@@ -55,11 +55,11 @@ body {
 }
 
 .btn-primary {
-	background-color: #c94300;
+	background-color: #ff009d;
 }
 
 .btn-primary:hover {
-	background-color: #c94300;
+	background-color: #ff009d;
 }
 
 .sidebar {
@@ -87,12 +87,12 @@ body {
 .navbar-brand {
 	font-size: 30px;
 	color: #fff !important;
-	font-family: 'Jokerman';
+	font-family: 'Trebuchet MS';
 
 }
 
 .navbar-laravel {
-    background-color: #c94300;
+    background-color: #ff009d;
     height: 65px;
     padding: 0;
 }
@@ -111,7 +111,7 @@ body {
 	top: 0;
 	left: 0;
 	width: 250px;
-	background-color: #fff;
+	background-color: #ff0077;
 	border-right: 1px solid #dcdede;
 	box-shadow: 1px 1px 5px #ccc;
 	margin-top: 65px;
@@ -224,7 +224,7 @@ body {
 	margin: 0 20px;
 	color: rgba(70,70,70);
 	font-size: 20px;
-	font-family: 'Raleway';
+	font-family: 'Sans-serif';
 }
 
 .panel-header i {
